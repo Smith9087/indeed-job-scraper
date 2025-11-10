@@ -1,0 +1,4 @@
+# Put one Indeed search URL per line. Lines starting with # are ignored.
+# You can also place a local HTML path or file:// URL for offline testing.
+# Example (USA SWE in New York):
+https://www.indeed.com/jobs?q=software+engineer&l=New+York%2C+NY
