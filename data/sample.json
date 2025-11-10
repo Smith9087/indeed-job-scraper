@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Acme Corp",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://images.example.com/acme/header.jpg",
+      "logoUrl": "https://images.example.com/acme/logo.png"
+    },
+    "companyOverviewLink": "https://www.indeed.com/cmp/Acme-Corp",
+    "companyRating": 4.1,
+    "companyReviewCount": 532,
+    "displayTitle": "Senior Data Engineer",
+    "expired": false,
+    "extractedSalary": {
+      "min": 140000,
+      "max": 170000,
+      "type": "yearly",
+      "currency": "USD"
+    },
+    "formattedLocation": "New York, NY",
+    "formattedRelativeTime": "3 days ago",
+    "jobLocationCity": "New York",
+    "jobLocationState": "NY",
+    "jobTypes": ["Full-time"],
+    "jobkey": "123abc456def",
+    "link": "https://www.indeed.com/viewjob?jk=123abc456def",
+    "locationCount": 1,
+    "newJob": true,
+    "normTitle": "Data Engineer",
+    "pubDate": "2025-10-28T09:00:00Z",
+    "remoteWorkModel": { "type": "REMOTE_HYBRID" },
+    "salarySnippet": {
+      "currency": "USD",
+      "text": "$140,000 - $170,000 a year"
+    },
+    "snippet": "Design and optimize data pipelines in cloud environments...",
+    "sponsored": false,
+    "taxonomyAttributes": [
+      { "label": "Python", "tier": "skill" },
+      { "label": "ETL", "tier": "skill" }
+    ],
+    "title": "Senior Data Engineer",
+    "urgentlyHiring": false,
+    "viewJobLink": "https://www.indeed.com/rc/clk?jk=123abc456def",
+    "sourceUrl": "https://www.indeed.com/jobs?q=data+engineer"
+  }
+]
