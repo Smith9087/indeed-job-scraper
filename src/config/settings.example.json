@@ -1,0 +1,9 @@
+{
+  "output_format": "json",
+  "output_path": "output/output.json",
+  "max_results": 50,
+  "concurrency": 1,
+  "requests_per_minute": 30,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+  "timeout_seconds": 20
+}
